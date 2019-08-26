@@ -4,4 +4,4 @@ No,賞の名前,商品名,imagefilename,総数,在庫数
 3,2等,ギフトチケット1000円分,images/2to.png,4,4
 4,3等,スモールサイズをレギュラーサイズにアップグレード券,images/3to.png,4,4
 5,4等,缶バッチ,images/4to.png,6,6
-6,5等,100円引き券,images/5to.png,10,10
+6,5等,100円引き券,images/5to.png,10,
